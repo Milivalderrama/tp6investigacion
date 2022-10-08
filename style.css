@@ -18,3 +18,7 @@ body {
     background-color: bisque;
     font-family: 'Times New Roman', Times, serif;
 }
+
+h1:hover {
+    background-color: blueviolet;
+}
